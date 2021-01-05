@@ -76,3 +76,5 @@ c:\users\johnkel\documents\visual studio 2017\Projects\IngresosGastos\IngresosGa
 c:\users\johnkel\documents\visual studio 2017\Projects\IngresosGastos\IngresosGastos\bin\EntityFramework.SqlServer.dll
 c:\users\johnkel\documents\visual studio 2017\Projects\IngresosGastos\IngresosGastos\bin\EntityFramework.xml
 c:\users\johnkel\documents\visual studio 2017\Projects\IngresosGastos\IngresosGastos\bin\EntityFramework.SqlServer.xml
+c:\users\johnkel\documents\visual studio 2017\Projects\IngresosGastos\IngresosGastos\obj\Debug\IngresosGastos.Migrations.Inicial.resources
+c:\users\johnkel\documents\visual studio 2017\Projects\IngresosGastos\IngresosGastos\obj\Debug\IngresosGastos.csproj.GenerateResource.Cache

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using IngresosGastos.Models;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -12,5 +13,7 @@ namespace IngresosGastos.Data
         {
 
         }
+
+        public DbSet<IngresosGastosFASS> IngesosGastos { get; set; }
     }
 }
